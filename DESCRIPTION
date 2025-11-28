@@ -1,0 +1,30 @@
+Package: euformat
+Type: Package
+Title: European formatting that keeps numeric classes
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "irene", "Cruz Gómez",
+      email = "irene.cruz@uab.cat",
+      role = c("aut", "cre")
+    )
+  )
+Description: Minimal S3 class for European-style numeric formatting, including plain numbers, currency, tibble, data.frame, DT & ggplot2 support.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+VignetteBuilder: knitr
+Depends: R (>= 3.5.0)
+Imports: 
+    pillar,
+    DT,
+    ggplot2
+Suggests: 
+    knitr,
+    rmarkdown,
+    htmltools,
+    tibble,
+    utils,
+    testthat (>= 3.0.0)
+RoxygenNote: 7.3.3
+Config/testthat/edition: 3
