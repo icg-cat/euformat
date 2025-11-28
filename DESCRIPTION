@@ -1,7 +1,7 @@
 Package: euformat
 Type: Package
 Title: European formatting that keeps numeric classes
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: c(
     person(
       "irene", "Cruz Gómez",
