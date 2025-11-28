@@ -21,10 +21,6 @@ The package works consistently in:
 
 and includes a global toggle to enable/disable printing.
 
-<!-- badges: start -->
-
-<!-- badges: end -->
-
 ## Installation
 
 You can install the development version of euformat from
