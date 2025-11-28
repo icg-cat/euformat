@@ -2,7 +2,6 @@
 output: github_document
 ---
 
-
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
@@ -31,7 +30,6 @@ The package works consistently in:
 - DT tables  
 
 and includes a global toggle to enable/disable printing.
-
 
 ## Installation
 
